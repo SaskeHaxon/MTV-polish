@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- gun complex -->
+
+  <GunComplex.label>kompleks broni</GunComplex.label>
+  <GunComplex.description>Karabin montowany na podstawie. Zaprojektowany do pracy bez względu na to, czy ma prąd, czy nie. Będzie strzelał tak długo, jak ktoś go obsługuje. Nigdy nie wybucha.</GunComplex.description>
+
+  <Bullet_GunComplex.label>pocisk do kompleksu broni</Bullet_GunComplex.label>
+  <Gun_GunComplex.label>broń kompleks broni</Gun_GunComplex.label>
+  <Gun_GunComplex.description>Cieżki karabin maszynowy.</Gun_GunComplex.description>
+
+
+  <!-- rocket complex -->
+
+  <RocketComplex.label>kompleks rakietowy</RocketComplex.label>
+  <RocketComplex.description>Starszy typ broni, która wymaga ręcznej kontroli i przeładowania. Na szczęście za pomocą przyzwoitej optyki i śmiertelnego promienia wybuchu pocisków jego obecność nadal budzi lęk na linii frontu. Po zniszczeniu eksploduje w promieniu 3.</RocketComplex.description>
+
+  <Bullet_ComplexRocket.label>pocisk do kompleksu rakietowego</Bullet_ComplexRocket.label>
+  <Gun_RocketComplex.label>kompleks rakietowy</Gun_RocketComplex.label>
+  <Gun_RocketComplex.description>Kompleks rakietowy gotowy do montażu.</Gun_RocketComplex.description>
+
+
+  <!-- military grade turret -->
+
+  <MilitaryTurretGun.label>wieżyczki klasy wojskowej</MilitaryTurretGun.label>
+  <MilitaryTurretGun.description>Mocniejszy wariant automatycznej wieżyczki. Dłuższe podwójne lufy zapewniają większy zasięg i większą moc. Ma większą szansę na eksplozję w promieniu 4.</MilitaryTurretGun.description>
+
+  <Bullet_TurretMilitary.label>posisk do wieżyczki wojskowej</Bullet_TurretMilitary.label>
+  <Gun_TurretMilitary.label>wieżyczka wojskowa</Gun_TurretMilitary.label>
+  <Gun_TurretMilitary.description>Ostrożnie wykonany karabin przymocowany do wieżyczki.</Gun_TurretMilitary.description>
+
+
+  <!-- shredder turret -->
+
+  <ShredderTurretGun.label>wieżyczki zniszczenia</ShredderTurretGun.label>
+  <ShredderTurretGun.description>Wieżyczka zniszczenia została zaprojektowana z myślą o bliskim zasięgu. Po zniszczeniu nie wybucha, co czyni go idealnym wyborem do obrony wnętrz, jedynym minusem jest to, że zajmuje więcej miejsca niż zwykły wariant.</ShredderTurretGun.description>
+
+  <Bullet_TurretShredder.label>pocisk do wieżyczki zniszczenia</Bullet_TurretShredder.label>
+  <Gun_TurretShredder.label>wieżyczka zniszczenia</Gun_TurretShredder.label>
+  <Gun_TurretShredder.description>Niszczycielka strzelba przymocowana do wieżyczki.</Gun_TurretShredder.description>
+
+
+  <!-- precision turret -->
+
+  <PrecisionTurretGun.label>wieżyczki precyzyjne</PrecisionTurretGun.label>
+  <PrecisionTurretGun.description>Wysoce skalibrowana Wieżyczka. Zaawansowana optyka pozwala na wykonanie jednego, ale precyzyjnego strzału w dość dużych odległościach. Rzadko wybucha w promieniu 2.5.</PrecisionTurretGun.description>
+
+  <Bullet_TurretPrecision.label>pocisk do wieżyczki precyzyjnej</Bullet_TurretPrecision.label>
+  <Gun_TurretPrecision.label>wieżyczka precyzyjna</Gun_TurretPrecision.label>
+  <Gun_TurretPrecision.description>Karabin precyzyjny przymocowany do wieżyczki.</Gun_TurretPrecision.description>
+
+
+  <!-- blast turret -->
+
+  <BlastTurretGun.label>wieżyczki uderzeniowe</BlastTurretGun.label>
+  <BlastTurretGun.description>Wieżyczka uderzeniowa została zaprojektowana do obrony obszaru bliskiego zasięgu. Wystrzeliwuje one 3 granaty odłamkowe. Po zniszczeniu wybucha w promieniu 3.</BlastTurretGun.description>
+
+  <Bullet_BlastCharge.label>pocisk do wieżyczki uderzeniowej</Bullet_BlastCharge.label>
+  <Gun_BlastCharge.label>wieżyczka uderzeniowawy</Gun_BlastCharge.label>
+  <Gun_BlastCharge.description>Montowany wyrzutnik ładunków wybuchowych na stacjonarnej podstawie.</Gun_BlastCharge.description>
+
+
+  <!-- vulcan cannon -->
+
+  <VulcanCannon.label>działko wulkaniczne</VulcanCannon.label>
+  <VulcanCannon.description>Wzmocnione działko typu minigun, wystrzeliwuje one w sposób ciągły i szybki, dużą ilość amunicji. Jest wysokie, przez co nie może celować pod siebie i nie może być umieszczony w pomieszczeniu. Ma stosunkowo duży zasięg. Po zniszczeniu eksploduje w promieniu 5.1.</VulcanCannon.description>
+
+  <Bullet_VulcanCannon.label>pocisk do wieżyczki wulkanicznej</Bullet_VulcanCannon.label>
+  <Gun_VulcanCannon.label>wieżyczka wulkaniczna</Gun_VulcanCannon.label>
+  <Gun_VulcanCannon.description>Ostrożnie wykonany karabin przymocowany do wieżyczki.</Gun_VulcanCannon.description>
+
+
+  <!-- Devastator mortar -->
+
+  <Turret_DevastatorMortarBomb.label>niszczycielki moździerz</Turret_DevastatorMortarBomb.label>
+  <Turret_DevastatorMortarBomb.description>Magnetyczna katapulta, która wystrzeliwuje pociski plazmowe z większą prędkością, dokładnością i znacznie większym promieniem wybuchu dzięki wybuchowi pięciu pocisków. Uważaj na olbrzymią eksplozję EMP w promieniu 10 po zniszczeniu.</Turret_DevastatorMortarBomb.description>
+
+  <Bullet_DevastatorBomb.label>pocisk do niszczycielskiego moździerza</Bullet_DevastatorBomb.label>
+  <Artillery_DevastatorBomb.label>niszczycielki moździerz</Artillery_DevastatorBomb.label>
+  <Artillery_DevastatorBomb.description>Niszczycielska wystrzeliwuje pociski z dużą prędkością. Mogą one przelatywać nad ścianami.</Artillery_DevastatorBomb.description>
+
+
+</LanguageData>

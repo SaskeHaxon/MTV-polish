@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- manned military grade turret -->
+
+    <MilitaryTurretGunManned.label>załogowa wieżyczka klasy wojskowej</MilitaryTurretGunManned.label>
+    <MilitaryTurretGunManned.description>Mocniejszy wariant automatycznej wieżyczki. Dłuższe podwójne lufy zapewniają większy zasięg i większą moc. Ma większą szansę na eksplozję w promieniu 4. Ten model jest tańszy, kosztem potrzeby operatora.</MilitaryTurretGunManned.description>
+
+    <Bullet_TurretMilitary.label>posisk do wieżyczki wojskowej</Bullet_TurretMilitary.label>
+    <Gun_TurretMilitaryManned.label>wieżyczka wojskowa</Gun_TurretMilitaryManned.label>
+    <Gun_TurretMilitaryManned.description>Ostrożnie wykonany karabin przymocowany do wieżyczki.</Gun_TurretMilitaryManned.description>
+
+    <!-- manned shredder turret -->
+
+    <ShredderTurretGunManned.label>załogowa wieżyczka zniszczenia</ShredderTurretGunManned.label>
+    <ShredderTurretGunManned.description>Wieżyczka zniszczenia została zaprojektowana z myślą o bliskim zasięgu. Po zniszczeniu nie wybucha, co czyni go idealnym wyborem do obrony wnętrz, jedynym minusem jest to, że zajmuje więcej miejsca niż zwykły wariant. Ten model jest tańszy, kosztem potrzeby operatora.</ShredderTurretGunManned.description>
+
+    <Bullet_TurretShredder.label>pocisk do wieżyczki zniszczenia</Bullet_TurretShredder.label>
+    <Gun_TurretShredderManned.label>załogowa wieżyczka zniszczenia</Gun_TurretShredderManned.label>
+    <Gun_TurretShredderManned.description>Niszczycielka strzelba przymocowana do wieżyczki.</Gun_TurretShredderManned.description>
+
+    <!-- manned precision turret -->
+
+    <PrecisionTurretGunManned.label>załogowa wieżyczka precyzyjna</PrecisionTurretGunManned.label>
+    <PrecisionTurretGunManned.description>Wysoce skalibrowana Wieżyczka. Zaawansowana optyka pozwala na wykonanie jednego, ale precyzyjnego strzału w dość dużych odległościach. Rzadko wybucha w promieniu 2.5. Ten model jest tańszy, kosztem potrzeby operatora.</PrecisionTurretGunManned.description>
+
+    <Bullet_TurretPrecision.label>pocisk do wieżyczki precyzyjnej</Bullet_TurretPrecision.label>
+    <Gun_TurretPrecisionManned.label>załogowa wieżyczka precyzyjna</Gun_TurretPrecisionManned.label>
+    <Gun_TurretPrecisionManned.description>Karabin precyzyjny przymocowany do wieżyczki.</Gun_TurretPrecisionManned.description>
+
+    <!-- manned blast turret -->
+
+    <BlastTurretGunManned.label>załogowa wieżyczka uderzeniowa</BlastTurretGunManned.label>
+    <BlastTurretGunManned.description>Wieżyczka uderzeniowa została zaprojektowana do obrony obszaru bliskiego zasięgu. Wystrzeliwuje one 3 granaty odłamkowe. Po zniszczeniu wybucha w promieniu 3. Ten model jest tańszy, kosztem potrzeby operatora.</BlastTurretGunManned.description>
+
+    <Bullet_BlastCharge.label>pocisk do wieżyczki uderzeniowej</Bullet_BlastCharge.label>
+    <Gun_BlastChargeManned.label>załogowa wieżyczka uderzeniowa</Gun_BlastChargeManned.label>
+    <Gun_BlastChargeManned.description>Montowany wyrzutnik ładunków wybuchowych na stacjonarnej podstawie.</Gun_BlastChargeManned.description>
+
+    <!-- manned vulcan cannon -->
+
+    <VulcanCannonManned.label>załogowe działko wulkaniczne</VulcanCannonManned.label>
+    <VulcanCannonManned.description>Wzmocnione działko typu minigun, wystrzeliwuje one w sposób ciągły i szybki, dużą ilość amunicji. Jest wysokie, przez co nie może celować pod siebie i nie może być umieszczony w pomieszczeniu. Ma stosunkowo duży zasięg. Po zniszczeniu eksploduje w promieniu 5.1. Ten model jest tańszy, kosztem potrzeby operatora.</VulcanCannonManned.description>
+
+    <Bullet_VulcanCannon.label>pocisk do wieżyczki wulkanicznej</Bullet_VulcanCannon.label>
+    <Gun_VulcanCannonManned.label>załogowa wieżyczka wulkaniczna</Gun_VulcanCannonManned.label>
+    <Gun_VulcanCannonManned.description>Ostrożnie wykonany karabin przymocowany do wieżyczki.</Gun_VulcanCannonManned.description>
+
+</LanguageData>

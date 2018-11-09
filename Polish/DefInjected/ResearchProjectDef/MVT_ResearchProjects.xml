@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GunComplex.label>MVT：kompleks broni</GunComplex.label>
+  <GunComplex.description>Pozwala na produkcję nowych kontrolowanych przez ludzi kompleksów broni do obrony twojej koloni.</GunComplex.description>
+
+  <RocketComplex.label>MVT：kompleks rakietowy</RocketComplex.label>
+  <RocketComplex.description>Pozwala na produkcję nowych kontrolowanych przez ludzi kompleksów rakietowych do obrony twojej koloni.</RocketComplex.description>
+
+  <MilitaryTurret.label>MVT：wieżyczki klasy wojskowej</MilitaryTurret.label>
+  <MilitaryTurret.description>Pozwala na produkcję bardziej zaawansowanych wieżyczek klasy wojskowej.</MilitaryTurret.description>
+
+  <ShredderTurret.label>MVT wieżyczki zniszczenia</ShredderTurret.label>
+  <ShredderTurret.description>Pozwala na produkcję krótkozasięgowych wieżyczek zniszczenia.</ShredderTurret.description>
+
+  <PrecisionTurret.label>MVT：wieżyczki precyzyjne</PrecisionTurret.label>
+  <PrecisionTurret.description>Pozwala na produkcję krótkozasięgowych wieżyczek precyzyjnych.</PrecisionTurret.description>
+
+  <BlastTurret.label>MVT：wieżyczki uderzeniowe</BlastTurret.label>
+  <BlastTurret.description>Pozwala na produkcję dość przerażających wieżyczek uderzeniowych.</BlastTurret.description>
+
+  <VulcanCannon.label>MVT：działko wulkaniczne</VulcanCannon.label>
+  <VulcanCannon.description>Pozwala na produkcję działek wulkanicznych.</VulcanCannon.description>
+
+  <DevastatorMortar.label>MVT：niszczycielki moździerz</DevastatorMortar.label>
+  <DevastatorMortar.description>Pozwala na produkcję niszczycielskich moździerzy.</DevastatorMortar.description>
+
+
+</LanguageData>
